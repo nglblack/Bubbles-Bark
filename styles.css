@@ -132,7 +132,7 @@ h2 {
 .hero {
     background: 
         linear-gradient(rgba(155, 203, 182, 0.8), rgba(155, 203, 182, 0.8)), /* transparent overlay */
-        url('./hero.png') center/cover no-repeat;          /* background image */
+        url('./img/') center/cover no-repeat;          /* background image */
     color: white;
     text-align: center;
     padding: 80px 0;
